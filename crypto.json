@@ -196,6 +196,22 @@
     "NFT",
     "NFT Analysis"
   ]
+},
+  {
+  "id": 9,
+  "title": "NFTGo",
+  "description": "Spotting NFT alpha by ranking, rarity, whales tracking, drops and more! The best all-in-one NFT analytics platform.",
+  "links": {
+    "officialsite": "https://nftgo.io/",
+    "discord": "https://discord.com/invite/38E4sEaFJr",
+    "twitter": "https://twitter.com/nftgoio"
+  },
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Analysis"
+  ]
 }
-
 ]
