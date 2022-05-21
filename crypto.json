@@ -1,1 +1,201 @@
+[
+{
+  "id": 1,
+  "title": "dex.guru",
+  "description": "Guru️ knows a thing or two about what is going on at AMM DEXs",
+  "links": {
+    "officialsite": "https://dex.guru"
+  },
+  "chains": [
+    "Ethereum",
+    "BSC",
+    "Polygon",
+    "Fantom",
+    "Avalanche",
+    "Arbitrum",
+    "Optimism",
+    "Celo"
+  ],
+  "tags": [
+    "DEX Aggregator",
+    "DEX"
+  ]
+},
+{
+  "id": 2,
+  "title": "Dextools",
+  "description": "DEXTools, the gateway to DEFI, real-time charts, history and all token info from blockchain.",
+  "links": {
+    "officialsite": "https://www.dextools.io/"
+  },
+  "chains": [
+    "Ethereum",
+    "BSC",
+    "Polygon",
+    "Fantom",
+    "OKC",
+    "HECO",
+    "Avalanche",
+    "Arbitrum",
+    "Optimism",
+    "Celo",
+    "Moonriver",
+    "Metis",
+    "Harmony",
+    "Aurora",
+    "Moonbeam",
+    "AvalancheDFK",
+    "OasisEmerald",
+    "Astar",
+    "Evmos",
+    "Milkomeda",
+    "Velas",
+    "KCC",
+    "Fuse",
+    "Telos",
+    "IoTex"
+  ],
+  "tags": [
+    "DEX Aggregator",
+    "DEX"
+  ]
+},
+{
+  "id": 3,
+  "title": "Dexscreener",
+  "description": "Realtime price charts and trading history on DEXes across Ethereum, BSC, Polygon, Avalanche, Fantom, Harmony, Cronos, Arbitrum, Optimism and more.",
+  "links": {
+    "officialsite": "https://dexscreener.com/"
+  },
+  "chains": [
+    "Ethereum",
+    "BSC",
+    "GnosisChain",
+    "Polygon",
+    "Fantom",
+    "OKC",
+    "HECO",
+    "Avalanche",
+    "Arbitrum",
+    "Optimism",
+    "Celo",
+    "Moonriver",
+    "Cronos",
+    "Boba",
+    "Metis",
+    "BTTC",
+    "Harmony",
+    "Cosmos",
+    "Aurora",
+    "Moonbeam",
+    "AvalancheDFK",
+    "OasisEmerald",
+    "Astar",
+    "Evmos",
+    "Milkomeda",
+    "Velas",
+    "KCC",
+    "SmartBCH",
+    "HSC",
+    "Fuse",
+    "Telos",
+    "KardiaChain",
+    "IoTex",
+    "Wanchain",
+    "Elastos",
+    "Meter",
+    "Syscoin",
+    "Conflux",
+    "Echelon",
+    "ZYX",
+    "Polis"
+  ],
+  "tags": [
+    "DEX Aggregator",
+    "DEX"
+  ]
+},
+{
+  "id": 4,
+  "title": "Opensea",
+  "description": "A gas-free marketplace for NFTs on Polygon. Create, buy, sell, and auction NFTs on the Polygon blockchain without paying any gas fees. Browse popular no-gas fees NFTs.",
+  "links": {
+    "officialsite": "https://opensea.io/"
+  },
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Solana"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Market"
+  ]
+},
+{
+  "id": 5,
+  "title": "x2y2",
+  "description": "X2Y2 is A truly decentralized NFT market on the Ethereum blockchain.",
+  "links": {
+    "officialsite": "https://x2y2.io/"
+  },
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Market"
+  ]
+},
+{
+  "id": 6,
+  "title": "LooksRare",
+  "description": "LooksRare is a next generation NFT market. Buy NFTs, sell NFTs… or just HODL: Collectors, traders, and creators alike earn passive income! 👀💎",
+  "links": {
+    "officialsite": "https://looksrare.org/",
+    "discord": "https://discord.com/invite/looksrare",
+    "twitter": "https://twitter.com/LooksRareNFT/"
+  },
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Market"
+  ]
+},
+{
+  "id": 7,
+  "title": "Rarity Sniffer",
+  "description": "Check the rarity of your favorite NFT collections within a matter of seconds after they have been revealed using RaritySniffer!",
+  "links": {
+    "officialsite": "https://raritysniffer.com/",
+    "discord": "https://discord.com/invite/X9SvdY8rMD",
+    "twitter": "https://twitter.com/Rarity_Sniffer"
+  },
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Analysis"
+  ]
+},
+{
+  "id": 8,
+  "title": "rarity.tools",
+  "description": "NFTs ranked and sorted by rarity. See the rarest CryptoPunks, Bored Ape Yacht Club, Hashmasks, Gutter Cat Gang and many more NFT collections.",
+  "links": {
+    "officialsite": "https://rarity.tools/",
+    "twitter": "https://twitter.com/raritytools"
+  },
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Analysis"
+  ]
+}
 
+]
