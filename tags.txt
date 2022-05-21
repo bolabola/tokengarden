@@ -1,0 +1,41 @@
+Access Control
+Data
+Data Analytics
+Developer Tooling
+Discussion / Communication
+Education
+Identity & Reputation
+Incubator / Accelerator
+Job Board
+Liquidity Management
+Multisig
+Security
+Social Graphs
+Governance
+Vote
+Wiki
+Yield Aggregator
+DEX Aggregator
+DEX
+AMM
+Synthetic Assets
+Options
+Asset Management
+Lending
+NFT
+Perpetuals
+DAO
+Anonymous Transfer
+Oracle
+Cross Chain
+Insurance
+Algorithmic Stablecoin
+Layer2
+IDO
+Wallet
+Privacy
+P2E/M2E
+DNS
+Decentralized Storage
+Derivatives
+Faucet
