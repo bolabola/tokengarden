@@ -213,5 +213,41 @@
     "NFT",
     "NFT Analysis"
   ]
-}
+},
+  {
+  "id": 10,
+  "title": "NFTNerds",
+  "description": "The best NFT insights. Snatch underpriced assets straight from the chart. View rarity, trades and listings in realtime.",
+  "links": {
+    "officialsite": "https://nftnerds.ai/",
+    "discord": "https://discord.com/invite/nftnerds",
+    "twitter": "https://twitter.com/NFTNerdsAI"
+  },
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Analysis"
+  ]
+},
+  {
+  "id": 11,
+  "title": "NFTBank",
+  "description": "Home - Make NFT portfolio management smart",
+  "links": {
+    "officialsite": "https://nftbank.ai/",
+    "discord": "https://discord.com/invite/4yrNy4x",
+    "twitter": "https://twitter.com/NFTbank_ai"
+  },
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Klaytn",
+    "Ronin"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Management"
+  ]
 ]
