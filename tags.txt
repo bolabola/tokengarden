@@ -22,7 +22,6 @@ Synthetic Assets
 Options
 Asset Management
 Lending
-NFT
 Perpetuals
 DAO
 Anonymous Transfer
@@ -39,3 +38,8 @@ DNS
 Decentralized Storage
 Derivatives
 Faucet
+NFT
+NFT Market
+NFT Analysis
+NFT Creation
+NFT Management
