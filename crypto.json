@@ -250,4 +250,23 @@
     "NFT",
     "NFT Management"
   ]
+  },
+  {
+  "id": 12,
+  "title": "icy.tools",
+  "description": "Discover, track, and analyze trending NFTs with real time floor and volume data. Deep dive with historical charts, trend data, and full transaction history.",
+  "links": {
+    "officialsite": "https://icy.tools/",
+    "discord": "https://discord.com/invite/icytools",
+    "twitter": "https://twitter.com/icy_tools"
+  },
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "NFT",
+    "NFT Analysis"
+  ]
+},
+  
 ]
