@@ -39,3 +39,6 @@ Conflux
 Echelon
 ZYX
 Polis
+Solana
+Klaytn
+Ronin
