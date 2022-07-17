@@ -152,9 +152,7 @@
   "title": "LooksRare",
   "description": "LooksRare is a next generation NFT market. Buy NFTs, sell NFTs… or just HODL: Collectors, traders, and creators alike earn passive income! 👀💎",
   "links": {
-    "officialsite": "https://looksrare.org/",
-    "discord": "https://discord.com/invite/looksrare",
-    "twitter": "https://twitter.com/LooksRareNFT/"
+    "officialsite": "https://looksrare.org/"
   },
   "chains": [
     "Ethereum"
@@ -169,9 +167,7 @@
   "title": "Rarity Sniffer",
   "description": "Check the rarity of your favorite NFT collections within a matter of seconds after they have been revealed using RaritySniffer!",
   "links": {
-    "officialsite": "https://raritysniffer.com/",
-    "discord": "https://discord.com/invite/X9SvdY8rMD",
-    "twitter": "https://twitter.com/Rarity_Sniffer"
+    "officialsite": "https://raritysniffer.com/"
   },
   "chains": [
     "Ethereum"
@@ -186,8 +182,7 @@
   "title": "rarity.tools",
   "description": "NFTs ranked and sorted by rarity. See the rarest CryptoPunks, Bored Ape Yacht Club, Hashmasks, Gutter Cat Gang and many more NFT collections.",
   "links": {
-    "officialsite": "https://rarity.tools/",
-    "twitter": "https://twitter.com/raritytools"
+    "officialsite": "https://rarity.tools/"
   },
   "chains": [
     "Ethereum"
@@ -202,9 +197,7 @@
   "title": "NFTGo",
   "description": "Spotting NFT alpha by ranking, rarity, whales tracking, drops and more! The best all-in-one NFT analytics platform.",
   "links": {
-    "officialsite": "https://nftgo.io/",
-    "discord": "https://discord.com/invite/38E4sEaFJr",
-    "twitter": "https://twitter.com/nftgoio"
+    "officialsite": "https://nftgo.io/"
   },
   "chains": [
     "Ethereum"
@@ -219,9 +212,7 @@
   "title": "NFTNerds",
   "description": "The best NFT insights. Snatch underpriced assets straight from the chart. View rarity, trades and listings in realtime.",
   "links": {
-    "officialsite": "https://nftnerds.ai/",
-    "discord": "https://discord.com/invite/nftnerds",
-    "twitter": "https://twitter.com/NFTNerdsAI"
+    "officialsite": "https://nftnerds.ai/"
   },
   "chains": [
     "Ethereum"
@@ -236,9 +227,7 @@
   "title": "NFTBank",
   "description": "Home - Make NFT portfolio management smart",
   "links": {
-    "officialsite": "https://nftbank.ai/",
-    "discord": "https://discord.com/invite/4yrNy4x",
-    "twitter": "https://twitter.com/NFTbank_ai"
+    "officialsite": "https://nftbank.ai/"
   },
   "chains": [
     "Ethereum",
@@ -256,9 +245,7 @@
   "title": "icy.tools",
   "description": "Discover, track, and analyze trending NFTs with real time floor and volume data. Deep dive with historical charts, trend data, and full transaction history.",
   "links": {
-    "officialsite": "https://icy.tools/",
-    "discord": "https://discord.com/invite/icytools",
-    "twitter": "https://twitter.com/icy_tools"
+    "officialsite": "https://icy.tools/"
   },
   "chains": [
     "Ethereum"
@@ -267,6 +254,6 @@
     "NFT",
     "NFT Analysis"
   ]
-},
+}
   
 ]
